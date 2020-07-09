@@ -20,11 +20,13 @@ Nessa sessão apresentarei uma introdução sobre o Azure Synapse Analytics e as
 1. [Sidney Cirqueira](https://www.linkedin.com/in/sidneyoliveiracirqueira/)
 
 ## Pré-Requisitos:
-Conhecimento basico em Azure, Big Data, Data warehouse e Datalake e Spark.
+Conhecimento basico em Azure, Big Data, Data Warehouse e Data Lake,SQL e Spark.
 * [Conta Microsoft Azure](https://azure.microsoft.com/en-us/free/); 
+* [Azure Open Dataset](https://azure.microsoft.com/en-us/services/open-datasets/);
 * [Azure Synapse Analytics Workspace](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-workspace);
 * [SQL Pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-sql-pool-portal); 
 * [Spark Pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-apache-spark-pool-portal);
+
 
 ## Get Start Synapse
 * [0 - Toolkit - Get started uncovering critical insights with Azure Synapse Analitics]();
