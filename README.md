@@ -43,9 +43,9 @@ Conhecimento basico em Azure, Big Data, Data Warehouse e Data Lake,SQL e Spark.
 * [PowerBI](https://github.com/sidneyocirqueira/azure-synapse-analytics/tree/master/PBI);
 
 ## Referências 
-* [Books]:(https://github.com/sidneyocirqueira/azure-synapse-analytics/tree/master/Books)
-* [Synapse Analytics(workspaces)]: (https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is);
-* [Synapse Analytics(SQL DW)]: (https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/);
+* [Books]:(https://github.com/sidneyocirqueira/azure-synapse-analytics/tree/master/Books);
+* [Synapse Analytics Workspaces]: (https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is);
+* [Synapse Analytics- SQL DW]: (https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/);
 * [Modern Data Warehouse]: (https://azure.microsoft.com/en-in/solutions/architecture/modern-data-warehouse/);
 * [MPP Architecture]: (https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/massively-parallel-processing-mpp-architecture);
 * [Product]: (https://azure.microsoft.com/en-us/services/synapse-analytics/);
