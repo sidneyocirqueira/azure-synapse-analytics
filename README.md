@@ -47,6 +47,7 @@ Instruções para execução do projeto:
 ## Scripts 
 
 ## Referências 
+* [Books](https://github.com/sidneyocirqueira/azure-synapse-analytics/tree/master/Books)
 
 ## Contribuição
 Se você quiser contribuir, leia mais sobre tags markdown para editar o arquivo README, [Guia markdown](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops&viewFallbackFrom=vsts) 
