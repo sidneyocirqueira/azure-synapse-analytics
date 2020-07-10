@@ -1,0 +1,2 @@
+azureml-sdk
+azureml-widgets
