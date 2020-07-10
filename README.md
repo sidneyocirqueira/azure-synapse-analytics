@@ -29,7 +29,7 @@ Conhecimento basico em Azure, Big Data, Data Warehouse e Data Lake,SQL e Spark.
 * [Spark Pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-create-apache-spark-pool-portal);
 
 
-## Get Start Synapse
+## GetStartSynapse
 * [0 - Toolkit - Get started uncovering critical insights with Azure Synapse Analitics](https://github.com/sidneyocirqueira/azure-synapse-analytics/blob/master/GetStartSynapse/0%20-%20Toolkit%20-%20Get%20started%20uncovering%20critical%20insights%20with%20Azure%20Synapse%20Analitics.pdf);
 * [1 - Four steps to get started](https://github.com/sidneyocirqueira/azure-synapse-analytics/blob/master/GetStartSynapse/1%20-%20Four%20steps%20to%20get%20started.pdf);
 * [2 - Code-free ETL with Azure Synapse Analytics](https://github.com/sidneyocirqueira/azure-synapse-analytics/blob/master/GetStartSynapse/2%20-%20Code-free%20ETL%20with%20Azure%20Synapse%20Analytics.pdf);
