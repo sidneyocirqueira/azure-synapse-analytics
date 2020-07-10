@@ -54,6 +54,7 @@ Conhecimento basico em Azure, Big Data, Data Warehouse e Data Lake,SQL e Spark.
 * [Synapse Link](https://docs.microsoft.com/en-us/azure/cosmos-db/synapse-link);
 * [Synapse Analytics Toolkit](https://azure.microsoft.com/en-us/resources/azure-synapse-analytics-toolkit/);
 * [Mechanics Synapse](https://aka.ms/mechanicssynapse]);
+* [Developing end-to-end analytics solutions with the latest Azure Synapse features](https://www.youtube.com/watch?v=PuJ499Ry4uU);
 
 ## Contribuição
 Se você quiser contribuir, leia mais sobre tags markdown para editar o arquivo README, [Guia markdown](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops&viewFallbackFrom=vsts) 
