@@ -3,7 +3,7 @@
 
 Nessa sessão apresentarei uma introdução sobre o Azure Synapse Analytics e as novidades já disponíveis para utilização no Microsoft Azure. Além de um overview do Serviço de análise ilimitado que reúne data warehousing corporativo e análise de Big Data com uma experiência unificada para ingerir, preparar, gerenciar e servir dados para necessidades imediatas de BI e aprendizado de máquina.
 
-![img](https://github.com/sidneyocirqueira/devopsdays-goiania-2019/blob/master/img/banner.jpg)
+![img](https://github.com/sidneyocirqueira/azure-synapse-analytics/blob/master/Files/Banner.png)
 ## Sumário
 * [Palestra](#palestra)
 * [Integrante](#integrantes)
