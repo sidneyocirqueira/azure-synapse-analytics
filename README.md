@@ -8,7 +8,7 @@ Nessa sessão apresentarei uma introdução sobre o Azure Synapse Analytics e as
 * [Palestra](#palestra)
 * [Integrante](#integrantes)
 * [Pré-Requisitos](#prerequisitos)
-* [GetStartSynapse](#Get Start Synapse)
+* [GetStartSynapse](#getstartsynapse)
 * [Scripts](#scripts)
 * [Referências](#referencias)
 * [Contribuição](#contribuicao)
