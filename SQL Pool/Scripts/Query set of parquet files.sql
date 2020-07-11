@@ -4,7 +4,7 @@ SELECT
         COUNT(*) AS cnt
 FROM  
     OPENROWSET(
-        BULK 'https://datalakecomunidadems.dfs.core.windows.net/nyctlc/yellow/puYear=2019/puMonth=*/*.snappy.parquet',
+        BULK 'https://datalakepassmarathon.dfs.core.windows.net/nyctlc/yellow/puYear=2019/puMonth=*/*.snappy.parquet',
         FORMAT='PARQUET'
     ) WITH (
         tpepPickupDateTime DATETIME2,
