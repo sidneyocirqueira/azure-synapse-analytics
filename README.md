@@ -44,6 +44,7 @@ Conhecimento basico em Azure, Big Data, Data Warehouse e Data Lake,SQL e Spark.
 * [PowerBI](https://github.com/sidneyocirqueira/azure-synapse-analytics/tree/master/PBI);
 
 ## Referências 
+* [Como se tornar um Azure Data Engineer Associate](https://medium.com/data-hackers/como-se-tornar-um-microsoft-certified-azure-data-engineer-associate-eacc2d9969f5);
 * [Books](https://github.com/sidneyocirqueira/azure-synapse-analytics/tree/master/Books);
 * [Synapse Analytics Workspaces](https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is);
 * [Synapse Analytics- SQL DW](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/);
