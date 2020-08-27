@@ -1,4 +1,4 @@
-# PASS Marathon PORTUGUESE Edition!
+# Azure Synapse Analytics!
 [PT-BR] Demo da palestra realizada no evento [PASS Marathon PORTUGUESE 2020](https://www.pass.org/marathon/2020/portuguese/About.aspx)
 
 Nessa sessão apresentarei uma introdução sobre o Azure Synapse Analytics e as novidades já disponíveis para utilização no Microsoft Azure. Além de um overview do Serviço de análise ilimitado que reúne data warehousing corporativo e análise de Big Data com uma experiência unificada para ingerir, preparar, gerenciar e servir dados para necessidades imediatas de BI e aprendizado de máquina.
