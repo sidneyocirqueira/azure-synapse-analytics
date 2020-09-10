@@ -1,5 +1,5 @@
 # Azure Synapse Analytics!
-[PT-BR] Material referente as palestras realizada em diversos eventos de Big Data & Analytics.
+[PT-BR] Material referente as palestras realizadas em diversos eventos de Big Data & Analytics.
 
 ![img](https://github.com/sidneyocirqueira/azure-synapse-analytics/blob/master/Files/Banner.png)
 
